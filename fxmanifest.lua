@@ -3,4 +3,4 @@ game 'gta5'
 
 author 'Alga11'
 
-client_script 'client.lua'
+client_script 'lib.lua'
