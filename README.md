@@ -5,8 +5,6 @@ Libreria necessaria per la maggior parte dei miei scripts
 
 # Dipendenze
 
-DIPENDEZE
-
 es_extended
 
 --- NELLA PRIMA VERSIONE è DISPONIBILE SOLO IL MIO GRIDSYSTEM ---
