@@ -3,6 +3,10 @@ Crystal Lib
 
 Libreria necessaria per la maggior parte dei miei scripts
 
+# PER ASSISTENZA APRITE TICKET NEL DISCORD: https://discord.gg/bpNhdex2Fm
+
+NON CAMBIATE NOME DELLA RISORSA - ALTRIMENTI LO SCRIPT NON FUNZIONERA' PIU', SE VOLETE FARLO APRITE TICKET NEL DISCORD VI DO UNA MANO IO : https://discord.gg/bpNhdex2Fm
+
 # Dipendenze
 
 es_extended
