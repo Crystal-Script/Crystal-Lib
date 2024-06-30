@@ -12,7 +12,7 @@ es_extended
 # EXPORT
 
 -- EXPORT PER USARLO --
-
+ ```
 exports['crystal_lib']:CRYSTAL().gridsystem({ 
     pos = vector3(0,0,0), -- posizione del marker
     rot = vector3(90.0, 90.0, 90.0) -- rotazione del marker
@@ -27,5 +27,5 @@ exports['crystal_lib']:CRYSTAL().gridsystem({
         print('ciao')
     end
 })
-
+ ```
 By Alga11
