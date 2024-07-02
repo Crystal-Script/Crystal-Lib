@@ -26,7 +26,7 @@ exports['crystal_lib']:CRYSTAL().gridsystem({
     permission = 'police', -- in questo caso solo la polizia potrà accedere al marker (se questa linea verrà cancellata tutti potranno accederci)
     job_grade = 2, -- in questo modo solamente il job police (settato subito sopra) con questo grado potra accedere al marker
     msg = 'Premi [E] per interagire', -- messagio che compare se sarai sopra al marker
-    key = 38, -- in questo modo premendo G eseguira la funzione qui sotto (se questa linea non ci fosse, il tasto di default è 38 ovvero E)
+    key = 38, -- in questo modo premendo E eseguira la funzione qui sotto (se questa linea non ci fosse, il tasto di default è 38 ovvero E)
     action = function () -- funzione da eseguire se premuto il tasto settato
         print('ciao')
     end
